@@ -10,7 +10,7 @@ Paper list and reading notes of Adapters in Natural Language Processing(NLP) and
   <img src="https://www.soccerantenna.com/wp-content/uploads/2020/06/We-Need-You-Blue-Bell-Community-Hub-1024x573.png" alt="We Need You!" height="200" width="200">
 </p>
 
-Please help contribute this list by contacting <lavine@cis.lmu.de> or add [pull request]()
+Please help contribute this list by contacting <lavine@cis.lmu.de> or add [pull request](https://github.com/lavine-lmu/Adapter-paper-list/pulls)
 
 
 
